@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[ -z "$1" ]]; then
-        echo "Usage: ./autogob.sh <IP or Url>"
+        echo "Usage: ./autobuster.sh <IP or Url>"
         exit
     fi
 
