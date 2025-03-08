@@ -19,7 +19,6 @@ Welcome to the AutoBuster repository! This script was created to automate the pr
    ```
 
 ## Usage
-Provide a brief description of how to use the scripts. For example:
 ```bash
 ./autobuster.sh <URL or IP>
 ```
